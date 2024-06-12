@@ -4,25 +4,12 @@ Welcome to my Personal Portfolio project! This project showcases my skills, expe
 
 ## Table of Contents
 
-- [Project Structure](#project-structure)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
-
-## Project Structure
-
-personal-portfolio/
-│
-├── index.html # Home Page
-├── about.html # About Me Page
-├── resume.html # Resume/CV Page
-├── portfolio.html # Portfolio Projects Page
-├── contact.html # Contact Page
-├── css/
-│ ├── styles.css # Main stylesheet
 
 ## Features
 
