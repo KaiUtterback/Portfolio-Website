@@ -72,8 +72,8 @@ If you would like to contribute to this project, please follow these steps:
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** ktutterback@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/kai-utterback-2a183728a/
+- **GitHub:** https://github.com/KaiUtterback
 
 Thank you for visiting my Personal Portfolio!
